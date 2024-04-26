@@ -6,3 +6,4 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 		modelFile: "modules/Party Dice/PartyDice_d6.glb",
 		system: "PartyDice"
 	});
+});
