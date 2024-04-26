@@ -1,0 +1,36 @@
+{
+"id": "PartyDice",
+	"name": "PartyDice",
+	"title": "Dice So Nice - Party Dice",
+	"description": "Adds a set of dice perfect for emulating your favorite party games.",
+	"version": ".5",
+	"minimumCoreVersion": "0.7.2",
+	"compatibleCoreVersion": "11",
+	"compatibility": {
+		"minimum": "0.7.2",
+		"verified": "11"
+	},
+	"author": "Garry",
+	"authors": [
+		{
+			"name": "Garry"
+		}
+	],
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"type": "module",
+				"id": "dice-so-nice"
+			}
+		]
+	},
+	"scripts": [
+		"partydice.js"
+	],
+}
