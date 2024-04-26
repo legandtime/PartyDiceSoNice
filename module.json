@@ -33,4 +33,7 @@
 	"scripts": [
 		"partydice.js"
 	],
+	"url": "https://github.com/legandtime/PartyDiceSoNice",
+	"manifest": "https://raw.githubusercontent.com/legandtime/PartyDiceSoNice/main/module.json",
+	"download": "https://github.com/legandtime/PartyDiceSoNice/archive/refs/heads/main.zip"
 }
