@@ -45,7 +45,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d20",
 		labels: "",
-		modelFile: "modules/PartyDice/PartyDice_20.glb",
+		modelFile: "modules/PartyDice/PartyDice_d20.glb",
 		system: "PartyDice"
 	});
 });
